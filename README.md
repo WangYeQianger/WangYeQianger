@@ -7,8 +7,7 @@ I'm **王业强**
 
 - ✏ I’m currently learning: Python, C, C++
 - 💬 Links : [My Blog](https://yzyyz.top), [Storys](https://storys.yzyyz.top)
-- 🎮 I'm currently playing **考研** ~~[CS:GO](https://store.steampowered.com/app/730/CounterStrike_Global_Offensive/)~~  
-  
+
 
 
 ## 🌟 **My Skills**
