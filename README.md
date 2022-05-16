@@ -9,8 +9,8 @@ I'm **王业强**
   - Python
   - C
   - C++
-
 - 💬 Links : [My Blog](https://yzyyz.top), [Storys](https://storys.yzyyz.top)
+- 🐱‍🏍 My goal : I wish I could get an offer from Shanghai Jiao Tong University or Fudan University.
 
 
 
