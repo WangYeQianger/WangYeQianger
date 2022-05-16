@@ -12,7 +12,6 @@ I'm **王业强**
 - 🎮 I'm currently playing **考研** ~~[CS:GO](https://store.steampowered.com/app/730/CounterStrike_Global_Offensive/)~~
 
 
-
 <br>
 <a href="#" style="">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WangYeQianger&layout=compact">
