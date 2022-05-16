@@ -5,7 +5,11 @@
 
 I'm **王业强**
 
-- ✏ I’m currently learning: Python, C, C++
+- ✏ I’m currently learning:
+  - Python
+  - C
+  - C++
+
 - 💬 Links : [My Blog](https://yzyyz.top), [Storys](https://storys.yzyyz.top)
 
 
