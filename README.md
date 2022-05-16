@@ -13,6 +13,13 @@ I'm **王业强**
 - 😜 xxxxxxx
 - 
 
+
+
+
+🌟 **My Skills**  
+![](https://img.shields.io/badge/-Python-3e74a2?style=flat-square&logo=Python&logoColor=fff)
+
+
 <br>
 <a href="#" style="">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WangYeQianger&layout=compact">
