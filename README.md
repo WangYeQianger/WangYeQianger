@@ -15,7 +15,6 @@ I'm **王业强**
 
 
 ## 🥼 **My Skills**
-![](https://img.shields.io/badge/Windows10-0078d6?style=flat-square&logo=windows&logoColor=fff)
 ![](https://img.shields.io/badge/-Python-3e74a2?style=flat-square&logo=Python&logoColor=fff)
 ![](https://img.shields.io/badge/-HTML-e76029?style=flat-square&logo=html5&logoColor=fff)
 ![](https://img.shields.io/badge/-C-339933?style=flat-square&logo=C&logoColor=fff)
@@ -25,7 +24,7 @@ I'm **王业强**
 
 
 ## 🔥 **Developing Tools & Platforms**
-
+![](https://img.shields.io/badge/%20-Pycharm-yellowgreen)
 ![](https://img.shields.io/badge/Windows10-0078d6?style=flat-square&logo=windows&logoColor=fff)
 ![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-007acc?style=flat-square&logo=visual-studio-code&logoColor=fff)  
   
