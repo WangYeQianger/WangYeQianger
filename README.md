@@ -26,7 +26,7 @@ I'm **王业强**
 ## 🔥 **Developing Tools & Platforms**
 ![](https://img.shields.io/badge/%20-Pycharm-yellowgreen)
 ![](https://img.shields.io/badge/%20-Windows10-brightgreen)
-![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-007acc?style=flat-square&logo=visual-studio-code&logoColor=fff)  
+![](https://img.shields.io/badge/%20-IDLE-blue)  
   
 
 <img align="left" src="https://cdn.jsdelivr.net/gh/yzyyz1387/WangYeQianger/nwafu.png" height="75px"> 
