@@ -24,8 +24,8 @@ I'm **王业强**
 
 
 ## 🔥 **Developing Tools & Platforms**
-![](https://img.shields.io/badge/%20-Pycharm-yellowgreen)
 ![](https://img.shields.io/badge/%20-Windows10-brightgreen)
+![](https://img.shields.io/badge/%20-Pycharm-yellowgreen)
 ![](https://img.shields.io/badge/%20-IDLE-blue)
 ![](https://img.shields.io/badge/%20-Visual%20Studio%202019-purple)
   
