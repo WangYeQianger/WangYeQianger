@@ -19,15 +19,14 @@ I'm **王业强**
 ![](https://img.shields.io/badge/-HTML-e76029?style=flat-square&logo=html5&logoColor=fff)
 ![](https://img.shields.io/badge/-C-339933?style=flat-square&logo=C&logoColor=fff)
 ![](https://img.shields.io/badge/-C++-4fc08d?style=flat-square&logo=cplusplus&logoColor=fff)
-![](https://img.shields.io/badge/%20-Pycharm-yellowgreen)
+
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WangYeQianger">
 
 
 ## 🔥 **Developing Tools & Platforms**
 ![](https://img.shields.io/badge/%20-Windows10-brightgreen)
 ![](https://img.shields.io/badge/%20-IDLE-blue)
-![](https://img.shields.io/badge/%20-Pycharm-yellowgreen)
 ![](https://img.shields.io/badge/%20-Visual%20Studio%202019-purple)
-  
+![](https://img.shields.io/badge/%20-Pycharm-yellowgreen)
 
 <img align="left" src="https://cdn.jsdelivr.net/gh/yzyyz1387/WangYeQianger/nwafu.png" height="75px"> 
