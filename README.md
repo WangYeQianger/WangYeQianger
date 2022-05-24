@@ -23,7 +23,6 @@ I'm **王业强**
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WangYeQianger">
 
 
-
 ## 🔥 **Developing Tools & Platforms**
 ![](https://img.shields.io/badge/%20-Windows10-brightgreen)
 ![](https://img.shields.io/badge/%20-IDLE-blue)
