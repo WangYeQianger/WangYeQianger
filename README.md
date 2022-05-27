@@ -13,7 +13,6 @@ I'm **王业强**
 - 🐱‍🏍 My goal : I wish I could get an offer from Shanghai Jiao Tong University or Fudan University,and I want to be a guru in the computer field.
  
 
-
 ## 🥼 **My Skills**
 ![](https://img.shields.io/badge/-Python-3e74a2?style=flat-square&logo=Python&logoColor=fff)
 ![](https://img.shields.io/badge/-HTML-e76029?style=flat-square&logo=html5&logoColor=fff)
