@@ -8,7 +8,7 @@ I'm **王业强**
   - Python
   - C
   - C++
-- 🧲 Links : **[My Blog](https://blog.csdn.net/Muchenxi_?spm=1000.2115.3001.5343)**  **&**  **[My Weibo](https://weibo.com/u/5488250671)**
+- 🧲 Links : **[My Blog](https://blog.csdn.net/Muchenxi_?spm=1000.2115.3001.5343)（Updating）**  **&**  **[My Weibo](https://weibo.com/u/5488250671)**
 - 🐱‍🏍 My goal : I wish I could get an offer from Shanghai Jiao Tong University or Fudan University,and I want to be a guru in the computer field.
  
 
