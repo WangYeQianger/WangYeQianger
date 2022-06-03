@@ -1,4 +1,4 @@
-### **Hi there** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### **Hi there** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="35px">
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=WangYeQianger&show_icons=true" >  
  
 
