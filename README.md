@@ -34,4 +34,6 @@ I'm **王业强**
 <img align="left" src="https://cdn.jsdelivr.net/gh/yzyyz1387/WangYeQianger/nwafu.png" height="75px"> 
 
 
-![](https://raw.githubusercontent.com/yzyyz1387/yzyyz1387/main/assets/github-contribution-grid-snake.svg)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/yzyyz1387/yzyyz1387/main/assets/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake">
+</div>
