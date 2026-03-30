@@ -11,8 +11,10 @@ Yeqiang Wang's academic and research endeavors are centered around the cutting-e
 
 - LLM (MLLM)
 - Embodied AI (VLA)
-    
 
+<img align="left" src="sjtu.png" height="150px"> 
+
+<!--
 ## 🥼 **My Skills**
 ![](https://img.shields.io/badge/-Python-3e74a2?style=flat-square&logo=Python&logoColor=fff)
 ![](https://img.shields.io/badge/-HTML-e76029?style=flat-square&logo=html5&logoColor=fff)
@@ -26,8 +28,8 @@ Yeqiang Wang's academic and research endeavors are centered around the cutting-e
 ![](https://img.shields.io/badge/%20-IDLE-blue)
 ![](https://img.shields.io/badge/%20-Pycharm-yellowgreen)
 ![](https://img.shields.io/badge/%20-Visual%20Studio%202019-purple)
+-->
 
 
-<img align="left" src="sjtu.png" height="75px"> 
 
 
