@@ -3,7 +3,7 @@
 
 I am **Yeqiang Wang** (王业强), a Ph.D. candidate in the Class of 2026 at the School of Computer Science, Shanghai Jiao Tong University (SJTU). I am also a joint Ph.D. candidate with Shanghai Innovation Institute (SII). My research interests focus on Embodied Intelligence (VLA). I welcome academic discussions.
 
-- 🧲 Links : **[HomePage]([https://blog.csdn.net/Muchenxi_?spm=1000.2115.3001.5343](https://wangyeqianger.github.io/))（Updating）**
+- 🧲 Links : **[HomePage](https://wangyeqianger.github.io/)（Updating）**
 - 🐱 My goal : Successfully graduated with a PhD degree!
 
 
