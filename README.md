@@ -1,17 +1,18 @@
 ### **Hi there**   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px" height="50px">
 <a><img align="right" width="420" src="https://github-readme-stats.vercel.app/api?username=WangYeQianger&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true" /></a>
 
-I'm **王业强**
+I am **Yeqiang Wang** (王业强), a Ph.D. candidate in the Class of 2026 at the School of Computer Science, Shanghai Jiao Tong University (SJTU). I am also a joint Ph.D. candidate with Shanghai Innovation Institute (SII). My research interests focus on Embodied Intelligence (VLA). I welcome academic discussions.
+
+- 🧲 Links : **[HomePage]([https://blog.csdn.net/Muchenxi_?spm=1000.2115.3001.5343](https://wangyeqianger.github.io/))（Updating）**
+- 🐱 My goal : Successfully graduated with a PhD degree!
 
 
-- 🏆 I’m currently learning:
-  - Python
-  - C
-  - C++
-  - Java
-- 🧲 Links : **[My Blog](https://blog.csdn.net/Muchenxi_?spm=1000.2115.3001.5343)（Updating）**  **&**  **[My Weibo](https://weibo.com/u/5488250671)**
-- 🐱‍🏍 My goal : Successfully landed the research guarantee program in 2025！
- 
+## 📝 **Research Interests**
+Yeqiang Wang's academic and research endeavors are centered around the cutting-edge domains of:
+
+- LLM (MLLM)
+- Embodied AI (VLA)
+    
 
 ## 🥼 **My Skills**
 ![](https://img.shields.io/badge/-Python-3e74a2?style=flat-square&logo=Python&logoColor=fff)
@@ -31,7 +32,7 @@ I'm **王业强**
 ![](https://img.shields.io/badge/%20-Visual%20Studio%202019-purple)
 
 
-<img align="left" src="https://cdn.jsdelivr.net/gh/yzyyz1387/WangYeQianger/nwafu.png" height="75px"> 
+<img align="left" src="https://cdn.jsdelivr.net/gh/yzyyz1387/WangYeQianger/sjtu校徽.png" height="75px"> 
 
 
 <div align="center">
